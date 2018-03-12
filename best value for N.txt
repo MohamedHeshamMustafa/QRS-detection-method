@@ -1,0 +1,3 @@
+The best value for N is to become N = 25 as the peaks will be more accurate
+
+Note : my code is can detect perfectly N = 15,5,25 
